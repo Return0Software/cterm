@@ -1,0 +1,3 @@
+option('macos', type: 'boolean', value: false)
+option('linux', type: 'boolean', value: false)
+option('windows', type: 'boolean', value: false)
